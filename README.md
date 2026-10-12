@@ -8,14 +8,11 @@
 ├── dist/                     # 构建输出目录
 ├── src/                      # 源代码目录
 │   ├── CSS/                  # CSS样式文件
-│   │   ├── name.css #实名认证样式文件
 │   │   ├── style.css #经典模式、迷雾模式样式文件
 │   │   └── style2.css        # 隐形模式样式文件
 |   ├── files/                # 文件资源
 │   │   └── images/           # 图片资源
 │   ├── html/                 # HTML文件
-│   │   ├── index.html        #隐私政策弹窗界面
-│   │   ├── in.html           #加载界面
 │   │   ├── main.html         #主界面
 │   │   ├── jingdian.html     #经典模式界面
 │   │   ├── yinxing.html      #隐形模式界面
@@ -25,8 +22,7 @@
 │       ├── game1.js	      #经典模式游戏逻辑文件
 │       ├── game2.js	  	  #隐形模式游戏逻辑文件
 │       ├── game3.js	  	  #迷雾模式游戏逻辑文件
-│       ├── levels.js	  	  #游戏关卡数据文件
-│       └── name.js	          #实名认证逻辑文件
+│       └── levels.js	      #游戏关卡数据文件
 └── README.md                 # 项目说明文档
 #### 注意事项
 -本项目代码完全开源
